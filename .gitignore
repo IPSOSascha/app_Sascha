@@ -1,0 +1,7 @@
+#ignore
+flask_app/__pycache__
+/flenv
+venv
+*.pyc
+
+
